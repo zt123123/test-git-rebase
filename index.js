@@ -9,5 +9,6 @@ function test (a) {
   return a;
 }
 say();
+333
 222
 111
