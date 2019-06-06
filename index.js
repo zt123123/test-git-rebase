@@ -9,6 +9,7 @@ function test (a) {
   return a;
 }
 say();
+444
 333
 222
 111
