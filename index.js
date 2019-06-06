@@ -9,5 +9,5 @@ function test (a) {
   return a;
 }
 say();
-
+222
 111
